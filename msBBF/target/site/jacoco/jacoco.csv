@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+msUsers,com.everis.msbbf.controller,MainControllerImpl,3,0,0,0,1,0,1,0,1,0
+msUsers,com.everis.msbbf.controller,HandleErrorControllerImpl,3,0,0,0,1,0,1,0,1,0
+msUsers,com.everis.msbbf,BBFApplication,13,0,0,0,4,0,3,0,3,0
+msUsers,com.everis.msbbf,SwaggerConfig,15,0,0,0,4,0,2,0,2,0
+msUsers,com.everis.msbbf.constant,Constant,7,0,0,0,2,0,1,0,1,0
+msUsers,com.everis.msbbf.constant,ConstantMsg,7,0,0,0,2,0,1,0,1,0
